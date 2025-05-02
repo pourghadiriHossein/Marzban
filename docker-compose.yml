@@ -7,4 +7,4 @@ services:
     volumes:
       - /var/lib/marzban:/var/lib/marzban
     ports:
-      - "1373:8000" 
+      - "1373:1373" 
